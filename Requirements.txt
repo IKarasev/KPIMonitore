@@ -1,0 +1,28 @@
+######################################################
+# Requirements for deploying and running KPIMonitore #
+######################################################
+
+1) MySQL
+   Ver 14.14 Distrib 5.7.13, for Win64 (x86_64)
+   https://www.mysql.com/downloads/
+
+2) Python 3.5.2
+   https://www.python.org/downloads/
+
+3) Update pip and installers
+	> pip install -U pip
+	> pip install -U setuptools
+	> pip install -U virtualenv
+
+3) Django 1.10
+   https://www.djangoproject.com/download/
+	> pip install django
+
+4) Microsoft Visual C++ tools
+   http://landinghub.visualstudio.com/visual-cpp-build-tools
+
+5) MySQLclient or MySQLdb for python
+   https://pypi.python.org/pypi/mysqlclient
+	> pip install mysqlclient
+	or
+	> pip instal MySQL-python
