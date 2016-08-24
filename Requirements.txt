@@ -18,6 +18,10 @@
    https://www.djangoproject.com/download/
 	> pip install django
 
+5) pytz - date-time library (list of timezones https://en.wikipedia.org/wiki/List_of_tz_database_time_zones)
+   https://pypi.python.org/pypi/pytz?
+	> pip install pytz
+
 4) Microsoft Visual C++ tools
    http://landinghub.visualstudio.com/visual-cpp-build-tools
 
