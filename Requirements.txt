@@ -2,9 +2,8 @@
 ## Requirements for deploying and running KPIMonitore ##
 ########################################################
 
-1) MySQL
-   Ver 14.14 Distrib 5.7.13, for Win64 (x86_64)
-   https://www.mysql.com/downloads/
+1) Oracle DB 11gRelease2
+   http://www.oracle.com/technetwork/database/database-technologies/express-edition/downloads/index.html
 
 2) Python 3.4.3
    https://www.python.org/downloads/release/python-343/
@@ -25,8 +24,4 @@
 4) Microsoft Visual C++ tools
    http://landinghub.visualstudio.com/visual-cpp-build-tools
 
-5) MySQLclient or MySQLdb for python
-   https://pypi.python.org/pypi/mysqlclient
-	> pip install mysqlclient
-	or
-	> pip instal MySQL-python
+5) 
